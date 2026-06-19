@@ -50,13 +50,13 @@ A C++ program that lets you manage student grades. You can add students, add the
 ## Screenshots
 
 ### Add Student
-![Add Student](Screenshots/Add_student.png)
+![Add Student](Screenshots/"Add%20student.png")
 
 ### Search
 ![Add Student](Screenshots/Search.png)
 
 ### All Students
-![All Students](Screenshots/All_students.png)
+![All Students](Screenshots/All%20students.png)
 
 ### Statistics
 ![Statistics](Screenshots/Statistics.png)
