@@ -1,4 +1,4 @@
-# Student Grade Checker
+# Grade Book Management System
 CSE333 – Data Structures and Algorithms | Spring 2026
 
 ---
